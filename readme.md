@@ -6,7 +6,7 @@ Installation Guide
 
 3. Navigate to the project directory:
    
-       cd o11-v4
+       cd O11-v4
 
 5. Install Docker:
    
