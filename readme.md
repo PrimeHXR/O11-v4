@@ -17,6 +17,11 @@ Installation Guide
        sudo docker build -t o11-v4 .
 
 9. Choose between Node.js or Python. DON'T FORGET TO ADD YOUR SERVER IP ADDRESS!
+    
+   Remember to update the corresponding file:
+   
+   server.js: const ipAddress = 'SERVER-IP-HERE';
+   server.py: IP_ADDRESS = "SERVER-IP-HERE"
 
     Node.js (default):
    
