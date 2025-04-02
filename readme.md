@@ -21,6 +21,7 @@ Installation Guide
    Remember to update the corresponding file:
    
    server.js: const ipAddress = 'SERVER-IP-HERE';
+   
    server.py: IP_ADDRESS = "SERVER-IP-HERE"
 
     Node.js (default):
