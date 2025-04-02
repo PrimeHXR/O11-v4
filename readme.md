@@ -2,19 +2,19 @@ Installation Guide
 
 1. Clone the repository:
    
-    git clone https://github.com/PrimeHXR/O11-v4
+       git clone https://github.com/PrimeHXR/O11-v4
 
 3. Navigate to the project directory:
    
-    cd o11-v4
+       cd o11-v4
 
 5. Install Docker:
    
-    snap install docker
+       snap install docker
 
 7. Build the Docker image:
    
-    sudo docker build -t o11-v4 .
+       sudo docker build -t o11-v4 .
 
 9. Choose between Node.js or Python. DON'T FORGET TO ADD YOUR SERVER IP ADDRESS!
 
