@@ -37,3 +37,12 @@ Installation Guide
     URL: http://SERVER-IP-HERE:8484
     
     Credentials: admin:admin
+
+
+## Support the project ❤️  
+If you like this project, consider donating to support development:  
+
+**Bitcoin (BTC) Address:**  
+`1B6wYR8FJ6sWm8MZSxjT5sdNQtPEHEaykw`  
+
+![Donate BTC](https://www.bitcoinqrcodemaker.com/api/qrcode?data=1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa)
