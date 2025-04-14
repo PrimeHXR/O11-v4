@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# Remove old /home/o11 entries from /etc/fstab
+
 sed -i '/home\/o11/d' /etc/fstab
 sleep 2
 
-# Append new tmpfs entries to /etc/fstab
 cat <<EOL >> /etc/fstab
 
 tmpfs /home/o11/hls tmpfs defaults,noatime,nosuid,nodev,noexec,mode=1777,size=70% 0 0
